@@ -1,1 +1,1 @@
-# svd on MNIST
+# svd and ANN on MNIST
